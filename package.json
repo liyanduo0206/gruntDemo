@@ -1,21 +1,24 @@
 {
-  "name": "myhello",
+  "name": "myGruntDemo",
   "version": "0.0.1",
   "description": "hello world",
-  "main": "index",
   "dependencies": {},
   "devDependencies": {
 	"grunt-cli": "*",
-    "grunt": "*",
     "grunt-contrib-uglify": "*",
     "grunt-contrib-jshint": "*",
     "grunt-contrib-watch": "*",
     "grunt-contrib-csslint": "*",
-	"grunt-unwrap": "*"
+	"grunt-unwrap": "*",
+	"grunt-contrib-concat": "*",  
+    "grunt-contrib-requirejs": "*",  
+    "grunt-contrib-copy": "*",  
+    "grunt-contrib-clean": "*",  
+    "grunt-strip": "*" 
   },
   "scripts": {
     "test": "test"
   },
   "author": "liyd",
-  "license": "ISC"
+  "license": "MIT"
 }
