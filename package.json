@@ -4,7 +4,10 @@
   "description": "hello world",
   "dependencies": {},
   "devDependencies": {
+<<<<<<< HEAD
 	"grunt-cli": "*",
+=======
+>>>>>>> parent of cbdea20... Revert "peiz"
     "grunt-contrib-uglify": "*",
     "grunt-contrib-jshint": "*",
     "grunt-contrib-watch": "*",
