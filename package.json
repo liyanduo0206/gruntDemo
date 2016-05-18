@@ -1,0 +1,21 @@
+{
+  "name": "myhello",
+  "version": "0.0.1",
+  "description": "hello world",
+  "main": "index",
+  "dependencies": {},
+  "devDependencies": {
+	"grunt-cli": "*",
+    "grunt": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-csslint": "*",
+	"grunt-unwrap": "*"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "liyd",
+  "license": "ISC"
+}
