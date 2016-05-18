@@ -5,6 +5,8 @@
   "main": "index",
   "dependencies": {},
   "devDependencies": {
+	"grunt-cli": "*",
+    "grunt": "*",
     "grunt-contrib-uglify": "*",
     "grunt-contrib-jshint": "*",
     "grunt-contrib-watch": "*",
