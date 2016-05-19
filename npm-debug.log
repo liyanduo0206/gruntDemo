@@ -7,7 +7,7 @@
 4 verbose node symlink C:\softroot\AppCanStudioPersonalV3.2\HDK\emulator\mas\\node.exe
 5 error install Couldn't read dependencies
 6 error Failed to parse json
-6 error Unexpected token <
+6 error Unexpected token /
 7 error File: C:\Users\tang\Documents\GitHub\gruntDemo\package.json
 8 error Failed to parse package.json data.
 8 error package.json must be actual JSON, not just JavaScript.
