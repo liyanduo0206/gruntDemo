@@ -1,27 +1,21 @@
 {
-  "name": "myGruntDemo",
+  "name": "myhello",
   "version": "0.0.1",
   "description": "hello world",
+  "main": "index",
   "dependencies": {},
   "devDependencies": {
-<<<<<<< HEAD
 	"grunt-cli": "*",
-=======
->>>>>>> parent of cbdea20... Revert "peiz"
+    "grunt": "*",
     "grunt-contrib-uglify": "*",
     "grunt-contrib-jshint": "*",
     "grunt-contrib-watch": "*",
     "grunt-contrib-csslint": "*",
-	"grunt-unwrap": "*",
-	"grunt-contrib-concat": "*",  
-    "grunt-contrib-requirejs": "*",  
-    "grunt-contrib-copy": "*",  
-    "grunt-contrib-clean": "*",  
-    "grunt-strip": "*" 
+	"grunt-unwrap": "*"
   },
   "scripts": {
     "test": "test"
   },
   "author": "liyd",
-  "license": "MIT"
+  "license": "ISC"
 }
