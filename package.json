@@ -4,20 +4,21 @@
   "description": "hello world",
   "dependencies": {},
   "devDependencies": {
-<<<<<<< HEAD
-	"grunt-cli": "*",
-=======
->>>>>>> parent of cbdea20... Revert "peiz"
+    "grunt-cli": "*",
     "grunt-contrib-uglify": "*",
     "grunt-contrib-jshint": "*",
     "grunt-contrib-watch": "*",
     "grunt-contrib-csslint": "*",
-	"grunt-unwrap": "*",
-	"grunt-contrib-concat": "*",  
-    "grunt-contrib-requirejs": "*",  
-    "grunt-contrib-copy": "*",  
-    "grunt-contrib-clean": "*",  
-    "grunt-strip": "*" 
+    "grunt-unwrap": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-requirejs": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-strip": "*",
+    "gzip-size": "^3.0.0",
+    "pretty-bytes": "^3.0.1",
+    "figures": "^1.7.0",
+    "grunt-contrib-cssmin": "^1.0.1"
   },
   "scripts": {
     "test": "test"

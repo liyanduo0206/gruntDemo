@@ -62,7 +62,7 @@ module.exports = function (grunt) {
 	//grunt.loadNpmTasks('grunt-contrib-watch');
 	grunt.loadNpmTasks('grunt-contrib-csslint');
 
-	grunt.loadNpmTasks('grunt-css');
+	grunt.loadNpmTasks('grunt-contrib-cssmain');
 	grunt.loadNpmTasks('grunt-contrib-concat');
 
 	grunt.registerTask('default', ['jshint', 'uglify', 'cssmain', 'csslint', 'concat']);
